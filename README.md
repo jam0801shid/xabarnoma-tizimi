@@ -18,7 +18,7 @@ Ensure your system meets the [Laravel Server Requirements](https://laravel.com/d
 
 Run the following command to clone the repository into your desired directory:
 ```bash
-git clone https://github.com/jam0801shid/xabarnoma_tizimi.git [YourDirectoryName]
+git clone https://github.com/jam0801shid/xabarnoma-tizimi.git [YourDirectoryName]
 ```
 
 
